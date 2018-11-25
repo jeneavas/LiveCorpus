@@ -1,0 +1,304 @@
+File type = "ooTextFile"
+Object class = "TextGrid"
+
+xmin = 0.0
+xmax = 77.159
+tiers? <exists>
+size = 3
+item []:
+    item[1]:
+        class = "IntervalTier"
+        name = "pvp@"
+        xmin = 0.0
+        xmax = 77.159
+        intervals: size = 29
+        intervals [1]
+            xmin = 0.0
+            xmax = 0.15
+            text = ""
+        intervals [2]
+            xmin = 0.15
+            xmax = 4.33
+            text = "я мой брат ма'ма па'па и дя'дя ма'мин брат "
+        intervals [3]
+            xmin = 4.33
+            xmax = 4.93
+            text = ""
+        intervals [4]
+            xmin = 4.93
+            xmax = 6.43
+            text = "Така'я у нас была' семья'"
+        intervals [5]
+            xmin = 6.43
+            xmax = 11.41
+            text = ""
+        intervals [6]
+            xmin = 11.41
+            xmax = 13.45
+            text = "па'па рабо'тал на автоба'зе"
+        intervals [7]
+            xmin = 13.45
+            xmax = 13.91
+            text = ""
+        intervals [8]
+            xmin = 13.91
+            xmax = 15.66
+            text = "ма'ма в магази'не"
+        intervals [9]
+            xmin = 15.66
+            xmax = 16.77
+            text = ""
+        intervals [10]
+            xmin = 16.77
+            xmax = 18.31
+            text = "продавцо'м касси'ром"
+        intervals [11]
+            xmin = 18.31
+            xmax = 20.455
+            text = ""
+        intervals [12]
+            xmin = 20.455
+            xmax = 22.695
+            text = "брат на' два го'да ста'рше меня'"
+        intervals [13]
+            xmin = 22.695
+            xmax = 24.77
+            text = ""
+        intervals [14]
+            xmin = 24.77
+            xmax = 29.09
+            text = "око'нчил в свое'вре'мя радиотехни'ческой те'хникум"
+        intervals [15]
+            xmin = 29.09
+            xmax = 31.865
+            text = ""
+        intervals [16]
+            xmin = 31.865
+            xmax = 36.765
+            text = "ну на'чал рабо'тать служи'л в а'рмии пото'м рабо'тал пото'м жени'лся ну как обы'чно"
+        intervals [17]
+            xmin = 36.765
+            xmax = 44.06
+            text = ""
+        intervals [18]
+            xmin = 44.06
+            xmax = 45.24
+            text = "мои' ма'ма с па'пой"
+        intervals [19]
+            xmin = 45.24
+            xmax = 46.18
+            text = ""
+        intervals [20]
+            xmin = 46.18
+            xmax = 47.34
+            text = "поня'тия не име'ю"
+        intervals [21]
+            xmin = 47.34
+            xmax = 49.91
+            text = ""
+        intervals [22]
+            xmin = 49.91
+            xmax = 53.72
+            text = "мы познако'мились с ма'мой как бы случа'йно"
+        intervals [23]
+            xmin = 53.72
+            xmax = 54.19
+            text = ""
+        intervals [24]
+            xmin = 54.19
+            xmax = 55.44
+            text = "на дне рожде'ния"
+        intervals [25]
+            xmin = 55.44
+            xmax = 56.2
+            text = ""
+        intervals [26]
+            xmin = 56.2
+            xmax = 57.08
+            text = "у ее' бра'та"
+        intervals [27]
+            xmin = 57.08
+            xmax = 62.38
+            text = ""
+        intervals [28]
+            xmin = 62.38
+            xmax = 76.96
+            text = "с е'е бра'том я рабо'тал на авто'заводеи'мени Лиха'чева он у меня'как бы рабо'тал в подчине'нии я уже' дослужи'лся до нача'льника констру'кторского
+бюро' он у меня' рабо'тал инженером-конструк'тором"
+        intervals [29]
+            xmin = 76.96
+            xmax = 77.159
+            text = ""
+    item[2]:
+        class = "IntervalTier"
+        name = "logic stress"
+        xmin = 0.0
+        xmax = 77.159
+        intervals: size = 29
+        intervals [1]
+            xmin = 0.0
+            xmax = 0.15
+            text = ""
+        intervals [2]
+            xmin = 0.15
+            xmax = 4.33
+            text = "[-я-], мой брат, мама, папа и дядя - мамин брат"
+        intervals [3]
+            xmin = 4.33
+            xmax = 4.93
+            text = ""
+        intervals [4]
+            xmin = 4.93
+            xmax = 6.43
+            text = "[-Такая-] у нас была семья"
+        intervals [5]
+            xmin = 6.43
+            xmax = 11.41
+            text = ""
+        intervals [6]
+            xmin = 11.41
+            xmax = 13.45
+            text = "папа работал на [-автобазе-]"
+        intervals [7]
+            xmin = 13.45
+            xmax = 13.91
+            text = ""
+        intervals [8]
+            xmin = 13.91
+            xmax = 15.66
+            text = "мама в [-магазине-]"
+        intervals [9]
+            xmin = 15.66
+            xmax = 16.77
+            text = ""
+        intervals [10]
+            xmin = 16.77
+            xmax = 18.31
+            text = "[-продавцом-], кассиром"
+        intervals [11]
+            xmin = 18.31
+            xmax = 20.455
+            text = ""
+        intervals [12]
+            xmin = 20.455
+            xmax = 22.695
+            text = "брат на два года старше меня"
+        intervals [13]
+            xmin = 22.695
+            xmax = 24.77
+            text = ""
+        intervals [14]
+            xmin = 24.77
+            xmax = 29.09
+            text = "окончил в свое время радиотехнической [-техникум-]"
+        intervals [15]
+            xmin = 29.09
+            xmax = 31.865
+            text = ""
+        intervals [16]
+            xmin = 31.865
+            xmax = 36.765
+            text = "ну начал работать, служил в [-армии-], потом [-работал-], потом женился, ну как обычно"
+        intervals [17]
+            xmin = 36.765
+            xmax = 44.06
+            text = ""
+        intervals [18]
+            xmin = 44.06
+            xmax = 45.24
+            text = "[-мои-] мама с папой"
+        intervals [19]
+            xmin = 45.24
+            xmax = 46.18
+            text = ""
+        intervals [20]
+            xmin = 46.18
+            xmax = 47.34
+            text = "[-понятия-] не имею"
+        intervals [21]
+            xmin = 47.34
+            xmax = 49.91
+            text = ""
+        intervals [22]
+            xmin = 49.91
+            xmax = 53.72
+            text = "мы познакомились с мамой как бы [-случайно-]"
+        intervals [23]
+            xmin = 53.72
+            xmax = 54.19
+            text = ""
+        intervals [24]
+            xmin = 54.19
+            xmax = 55.44
+            text = "на дне рождения"
+        intervals [25]
+            xmin = 55.44
+            xmax = 56.2
+            text = ""
+        intervals [26]
+            xmin = 56.2
+            xmax = 57.08
+            text = "у ее брата"
+        intervals [27]
+            xmin = 57.08
+            xmax = 62.38
+            text = ""
+        intervals [28]
+            xmin = 62.38
+            xmax = 76.96
+            text = "с ее [-братом-] я работал на автозаводе имени [-Лихачева-] он у меня как бы работал в подчинении, я уже дослужился до начальника конструкторского бюро, 
+он у меня [-работал-] инженером-конструктором"
+        intervals [29]
+            xmin = 76.96
+            xmax = 77.159
+            text = ""
+    item[3]:
+        class = "IntervalTier"
+        name = "pyv@"
+        xmin = 0.0
+        xmax = 77.159
+        intervals: size = 11
+        intervals [1]
+            xmin = 0.0
+            xmax = 6.7
+            text = ""
+        intervals [2]
+            xmin = 6.7
+            xmax = 8.11
+            text = "расскажи' что-нибу'дь про них"
+        intervals [3]
+            xmin = 8.11
+            xmax = 40.535
+            text = ""
+        intervals [4]
+            xmin = 40.535
+            xmax = 42.735
+            text = "как познако'мились ма'ма с па'пой"
+        intervals [5]
+            xmin = 42.735
+            xmax = 45.11
+            text = ""
+        intervals [6]
+            xmin = 45.11
+            xmax = 46.04
+            text = "да твои' ма'ма с па'пой "
+        intervals [7]
+            xmin = 46.04
+            xmax = 47.555
+            text = ""
+        intervals [8]
+            xmin = 47.555
+            xmax = 49.275
+            text = "а как вы с ма'мой познако'мились"
+        intervals [9]
+            xmin = 49.275
+            xmax = 58.655
+            text = ""
+        intervals [10]
+            xmin = 58.655
+            xmax = 61.725
+            text = "а отку'да вы знако'мы с е'е бра'том"
+        intervals [11]
+            xmin = 61.725
+            xmax = 77.159
+            text = ""
