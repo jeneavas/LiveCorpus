@@ -1,0 +1,207 @@
+
+pvp@
+
+# sent_id = 43
+# text = я мой брат мама папа и дядя мамин брат / Такая у нас была семья
+1	я	я	PRON	_	Case=Nom|Number=Sing|Person=1	_	_	_	_
+2	мой	мой	DET	_	Case=Nom|Gender=Masc|Number=Sing	_	_	_	_
+3	брат	брат	NOUN	_	Animacy=Anim|Case=Nom|Gender=Masc|Number=Sing	_	_	_	_
+4	мама	мама	NOUN	_	Animacy=Anim|Case=Nom|Gender=Fem|Number=Sing	_	_	_	_
+5	папа	папа	NOUN	_	Animacy=Anim|Case=Nom|Gender=Masc|Number=Sing	_	_	_	_
+6	и	и	CCONJ	_	_	_	_	_	_
+7	дядя	дядя	NOUN	_	Animacy=Anim|Case=Nom|Gender=Masc|Number=Sing	_	_	_	_
+8	мамин	мамин	ADJ	_	Case=Nom|Degree=Pos|Gender=Masc|Number=Sing	_	_	_	_
+9	брат	брат	NOUN	_	Animacy=Anim|Case=Nom|Gender=Masc|Number=Sing	_	_	_	_
+10	/	/	PUNCT	_	_	_	_	_	_
+11	Такая	такой	DET	_	Case=Nom|Gender=Fem|Number=Sing	_	_	_	_
+12	у	у	ADP	_	_	_	_	_	_
+13	нас	мы	PRON	_	Case=Gen|Number=Plur|Person=1	_	_	_	_
+14	была	быть	AUX	_	Aspect=Imp|Gender=Fem|Mood=Ind|Number=Sing|Tense=Past|VerbForm=Fin|Voice=Act	_	_	_	_
+15	семья	семья	NOUN	_	Animacy=Inan|Case=Nom|Gender=Fem|Number=Sing	_	_	_	SpacesAfter=\n\n
+
+pyv@
+
+# sent_id = 45
+# text = расскажи что-нибудь про них
+1	расскажи	рассказать	VERB	_	Aspect=Perf|Mood=Imp|Number=Sing|Person=2|VerbForm=Fin|Voice=Act	_	_	_	_
+2	что-нибудь	что-нибудь	PRON	_	Case=Acc	_	_	_	_
+3	про	про	ADP	_	_	_	_	_	_
+4	них	они	PRON	_	Case=Gen|Number=Plur|Person=3	_	_	_	SpacesAfter=\n\n
+
+pvp@
+
+# sent_id = 47
+# text = папа работал на автобазе / мама в магазине / продавцом кассиром
+1	папа	папа	NOUN	_	Animacy=Anim|Case=Nom|Gender=Masc|Number=Sing	_	_	_	_
+2	работал	работать	VERB	_	Aspect=Imp|Gender=Masc|Mood=Ind|Number=Sing|Tense=Past|VerbForm=Fin|Voice=Act	_	_	_	_
+3	на	на	ADP	_	_	_	_	_	_
+4	автобазе	автобаза	NOUN	_	Animacy=Inan|Case=Loc|Gender=Fem|Number=Sing	_	_	_	_
+5	/	/	PUNCT	_	_	_	_	_	_
+6	мама	мама	NOUN	_	Animacy=Anim|Case=Nom|Gender=Fem|Number=Sing	_	_	_	_
+7	в	в	ADP	_	_	_	_	_	_
+8	магазине	магазин	NOUN	_	Animacy=Inan|Case=Loc|Gender=Masc|Number=Sing	_	_	_	_
+9	/	/	PUNCT	_	_	_	_	_	_
+10	продавцом	продавец	NOUN	_	Animacy=Anim|Case=Ins|Gender=Masc|Number=Sing	_	_	_	_
+11	кассиром	кассир	NOUN	_	Animacy=Inan|Case=Ins|Gender=Masc|Number=Sing	_	_	_	SpacesAfter=\n\n
+
+pvp@
+
+# sent_id = 49
+# text = Брат на два года старше меня
+1	Брат	брат	NOUN	_	Animacy=Anim|Case=Nom|Gender=Masc|Number=Sing	_	_	_	_
+2	на	на	ADP	_	_	_	_	_	_
+3	два	два	NUM	_	Animacy=Inan|Case=Acc|Gender=Masc	_	_	_	_
+4	года	год	NOUN	_	Animacy=Inan|Case=Gen|Gender=Masc|Number=Sing	_	_	_	_
+5	старше	старший	ADJ	_	Degree=Cmp	_	_	_	_
+6	меня	я	PRON	_	Case=Gen|Number=Sing|Person=1	_	_	_	SpacesAfter=\n\n
+
+pvp@
+
+# sent_id = 51
+# text = окончил в !своевремя !радиотехническойтехникум
+1	окончил	окончить	VERB	_	Aspect=Perf|Gender=Masc|Mood=Ind|Number=Sing|Tense=Past|VerbForm=Fin|Voice=Act	_	_	_	_
+2	в	в	ADP	_	_	_	_	_	_
+3	!своевремя	!своевремя	NOUN	_	Animacy=Inan|Case=Acc|Gender=Neut|Number=Sing	_	_	_	_
+4	!радиотехническойтехникум	!радиотехническойтехникум	NOUN	_	Animacy=Inan|Case=Acc|Gender=Masc|Number=Sing	_	_	_	SpacesAfter=\n\n
+
+pvp@
+
+# sent_id = 53
+# text = ну начал работать служил в армии потом работал потом женился ну как обычно
+1	ну	ну	PART	_	_	_	_	_	_
+2	начал	начать	VERB	_	Aspect=Perf|Gender=Masc|Mood=Ind|Number=Sing|Tense=Past|VerbForm=Fin|Voice=Act	_	_	_	_
+3	работать	работать	VERB	_	Aspect=Imp|VerbForm=Inf|Voice=Act	_	_	_	_
+4	служил	служить	VERB	_	Aspect=Imp|Gender=Masc|Mood=Ind|Number=Sing|Tense=Past|VerbForm=Fin|Voice=Act	_	_	_	_
+5	в	в	ADP	_	_	_	_	_	_
+6	армии	армия	NOUN	_	Animacy=Inan|Case=Loc|Gender=Fem|Number=Sing	_	_	_	_
+7	потом	потом	ADV	_	Degree=Pos	_	_	_	_
+8	работал	работать	VERB	_	Aspect=Imp|Gender=Masc|Mood=Ind|Number=Sing|Tense=Past|VerbForm=Fin|Voice=Act	_	_	_	_
+9	потом	потом	ADV	_	Degree=Pos	_	_	_	_
+10	женился	жениться	VERB	_	Aspect=Imp|Gender=Masc|Mood=Ind|Number=Sing|Tense=Past|VerbForm=Fin|Voice=Mid	_	_	_	_
+11	ну	ну	PART	_	_	_	_	_	_
+12	как	как	SCONJ	_	_	_	_	_	_
+13	обычно	обычно	ADV	_	Degree=Pos	_	_	_	SpacesAfter=\n\n
+
+pyv@
+
+# sent_id = 55
+# text = ммм эээ как познакомились мама с папой?
+1	ммм	мм	NOUN	_	Animacy=Inan|Case=Nom|Gender=Masc|Number=Sing	_	_	_	_
+2	эээ	эээ	X	_	Foreign=Yes	_	_	_	_
+3	как	как	SCONJ	_	_	_	_	_	_
+4	познакомились	знакомиться	VERB	_	Aspect=Perf|Mood=Ind|Number=Plur|Tense=Past|VerbForm=Fin|Voice=Mid	_	_	_	_
+5	мама	мама	NOUN	_	Animacy=Anim|Case=Nom|Gender=Fem|Number=Sing	_	_	_	_
+6	с	с	ADP	_	_	_	_	_	_
+7	папой	папа	NOUN	_	Animacy=Anim|Case=Ins|Gender=Masc|Number=Sing	_	_	_	SpaceAfter=No
+8	?	?	PUNCT	_	_	_	_	_	SpacesAfter=\n\n
+
+pvp@
+
+# sent_id = 57
+# text = мои мама с папой?
+1	мои	мой	DET	_	Case=Nom|Number=Plur	_	_	_	_
+2	мама	мама	NOUN	_	Animacy=Anim|Case=Nom|Gender=Fem|Number=Sing	_	_	_	_
+3	с	с	ADP	_	_	_	_	_	_
+4	папой	папа	NOUN	_	Animacy=Anim|Case=Ins|Gender=Masc|Number=Sing	_	_	_	SpaceAfter=No
+5	?	?	PUNCT	_	_	_	_	_	SpacesAfter=\n\n
+
+pyv@
+
+# sent_id = 59
+# text = да твои мама с папой
+1	да	да	CCONJ	_	_	_	_	_	_
+2	твои	твой	DET	_	Case=Nom|Number=Plur	_	_	_	_
+3	мама	мама	NOUN	_	Animacy=Anim|Case=Nom|Gender=Fem|Number=Sing	_	_	_	_
+4	с	с	ADP	_	_	_	_	_	_
+5	папой	папа	NOUN	_	Animacy=Anim|Case=Ins|Gender=Masc|Number=Sing	_	_	_	SpacesAfter=\n\n
+
+pvp@
+
+# sent_id = 61
+# text = понятия не имею
+1	понятия	понятие	NOUN	_	Animacy=Inan|Case=Nom|Gender=Neut|Number=Plur	_	_	_	_
+2	не	не	PART	_	_	_	_	_	_
+3	имею	иметь	VERB	_	Aspect=Imp|Mood=Ind|Number=Sing|Person=1|Tense=Pres|VerbForm=Fin|Voice=Act	_	_	_	SpacesAfter=\n\n
+
+pyv@
+
+# sent_id = 63
+# text = а как вы с мамой познакомились?
+1	а	а	CCONJ	_	_	_	_	_	_
+2	как	как	ADV	_	Degree=Pos	_	_	_	_
+3	вы	вы	PRON	_	Case=Nom|Number=Plur|Person=2	_	_	_	_
+4	с	с	ADP	_	_	_	_	_	_
+5	мамой	мама	NOUN	_	Animacy=Anim|Case=Ins|Gender=Fem|Number=Sing	_	_	_	_
+6	познакомились	знакомиться	VERB	_	Aspect=Perf|Mood=Ind|Number=Plur|Tense=Past|VerbForm=Fin|Voice=Mid	_	_	_	SpaceAfter=No
+7	?	?	PUNCT	_	_	_	_	_	SpacesAfter=\n\n
+
+pvp@
+
+# sent_id = 65
+# text = мы познакомились с мамой как бы случайно / на дне рождения у ее брата
+1	мы	мы	PRON	_	Case=Nom|Number=Plur|Person=1	_	_	_	_
+2	познакомились	знакомиться	VERB	_	Aspect=Perf|Mood=Ind|Number=Plur|Tense=Past|VerbForm=Fin|Voice=Mid	_	_	_	_
+3	с	с	ADP	_	_	_	_	_	_
+4	мамой	мама	NOUN	_	Animacy=Anim|Case=Ins|Gender=Fem|Number=Sing	_	_	_	_
+5	как	как	ADV	_	Degree=Pos	_	_	_	_
+6	бы	бы	PART	_	_	_	_	_	_
+7	случайно	случайно	ADV	_	Degree=Pos	_	_	_	_
+8	/	/	PUNCT	_	_	_	_	_	_
+9	на	на	ADP	_	_	_	_	_	_
+10	дне	день	NOUN	_	Animacy=Inan|Case=Loc|Gender=Neut|Number=Sing	_	_	_	_
+11	рождения	рождение	NOUN	_	Animacy=Inan|Case=Gen|Gender=Neut|Number=Sing	_	_	_	_
+12	у	у	ADP	_	_	_	_	_	_
+13	ее	она	PRON	_	Case=Gen|Gender=Fem|Number=Sing|Person=3	_	_	_	_
+14	брата	брат	NOUN	_	Animacy=Anim|Case=Gen|Gender=Masc|Number=Sing	_	_	_	SpacesAfter=\n\n
+
+pyv@
+
+# sent_id = 67
+# text = а откуда вы знакомы с ее братом?
+1	а	а	CCONJ	_	_	_	_	_	_
+2	откуда	откуда	ADV	_	Degree=Pos	_	_	_	_
+3	вы	вы	PRON	_	Case=Nom|Number=Plur|Person=2	_	_	_	_
+4	знакомы	знакомый	ADJ	_	Degree=Pos|Number=Plur|Variant=Short	_	_	_	_
+5	с	с	ADP	_	_	_	_	_	_
+6	ее	она	DET	_	_	_	_	_	_
+7	братом	брат	NOUN	_	Animacy=Anim|Case=Ins|Gender=Masc|Number=Sing	_	_	_	SpaceAfter=No
+8	?	?	PUNCT	_	_	_	_	_	SpacesAfter=\n\n
+
+pvp@
+
+# sent_id = 69
+# text = !сее братом я работал на !автозаводеимени Лихачева он у !менякак бы работал в подчинении я уже дослужился до начальника конструкторского
+1	!сее	со	ADV	_	Degree=Cmp	_	_	_	_
+2	братом	брат	NOUN	_	Animacy=Anim|Case=Ins|Gender=Masc|Number=Sing	_	_	_	_
+3	я	я	PRON	_	Case=Nom|Number=Sing|Person=1	_	_	_	_
+4	работал	работать	VERB	_	Aspect=Imp|Gender=Masc|Mood=Ind|Number=Sing|Tense=Past|VerbForm=Fin|Voice=Act	_	_	_	_
+5	на	на	ADP	_	_	_	_	_	_
+6	!автозаводеимени	автозаводеимя	NOUN	_	Animacy=Inan|Case=Loc|Gender=Fem|Number=Sing	_	_	_	_
+7	Лихачева	Лихачев	PROPN	_	Animacy=Anim|Case=Gen|Gender=Masc|Number=Sing	_	_	_	_
+8	он	он	PRON	_	Case=Nom|Gender=Masc|Number=Sing|Person=3	_	_	_	_
+9	у	у	ADP	_	_	_	_	_	_
+10	!менякак	менякак	NOUN	_	Animacy=Inan|Case=Acc|Gender=Masc|Number=Sing	_	_	_	_
+11	бы	бы	PART	_	Mood=Cnd	_	_	_	_
+12	работал	работать	VERB	_	Aspect=Imp|Gender=Masc|Mood=Ind|Number=Sing|Tense=Past|VerbForm=Fin|Voice=Act	_	_	_	_
+13	в	в	ADP	_	_	_	_	_	_
+14	подчинении	подчинение	NOUN	_	Animacy=Inan|Case=Loc|Gender=Neut|Number=Sing	_	_	_	_
+15	я	я	PRON	_	Case=Nom|Number=Sing|Person=1	_	_	_	_
+16	уже	уже	ADV	_	Degree=Pos	_	_	_	_
+17	дослужился	дослужиться	VERB	_	Aspect=Perf|Gender=Masc|Mood=Ind|Number=Sing|Tense=Past|VerbForm=Fin|Voice=Mid	_	_	_	_
+18	до	до	ADP	_	_	_	_	_	_
+19	начальника	начальник	NOUN	_	Animacy=Anim|Case=Gen|Gender=Masc|Number=Sing	_	_	_	_
+20	конструкторского	конструкторский	ADJ	_	Case=Gen|Degree=Pos|Gender=Masc|Number=Sing	_	_	_	SpacesAfter=\n\n
+
+pvp@
+
+# sent_id = 71
+# text = бюро он у меня работал инженером-конструктором
+1	бюро	бюро	ADV	_	Degree=Pos	_	_	_	_
+2	он	он	PRON	_	Case=Nom|Gender=Masc|Number=Sing|Person=3	_	_	_	_
+3	у	у	ADP	_	_	_	_	_	_
+4	меня	я	PRON	_	Case=Gen|Number=Sing|Person=1	_	_	_	_
+5	работал	работать	VERB	_	Aspect=Imp|Gender=Masc|Mood=Ind|Number=Sing|Tense=Past|VerbForm=Fin|Voice=Act	_	_	_	_
+6	инженером	инженер	NOUN	_	Animacy=Anim|Case=Ins|Gender=Masc|Number=Sing	_	_	_	SpaceAfter=No
+7	-	-	PUNCT	_	_	_	_	_	SpaceAfter=No
+8	конструктором	конструктор	NOUN	_	Animacy=Anim|Case=Ins|Gender=Masc|Number=Sing	_	_	_	SpacesAfter=\n\n
+pyv@
